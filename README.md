@@ -12,6 +12,7 @@
 #### b) Outcomes based on Goals - The analyses here required to create a subset table of the category (theater) and subcategory (plays) of interest. Following this, a table with goals/$$ (as buckets) needed to be created using which the total # of plays in successful, failure and canceled was calculated for each $$ fundraising bucket. The calculation was done using COUNTIFS formula and the percentages were calculated. The data showed that for the fund raising amount Louise is asking, the changes of success is ~55%. 
 
 <img width="488" alt="Goal outcomes" src="https://user-images.githubusercontent.com/89116627/131237482-4b61dd1c-0c68-4664-8482-18a0934a7b83.PNG">
+
 ### Challenges -
 #### My challenges were largely Markdown Pad related and Git related. I know this answer is not pertinent to the question being asked. Potential challenges here could be Countifs related given that there are a large number of inputs into the function that deal with cells/ranges as well as strings.
 #
